@@ -1,2 +1,1 @@
-# Megaproject
-A full stack project
+![Green Light Green White 3D Pitch Deck Business Presentation](https://user-images.githubusercontent.com/91872149/204203041-bcdd1a26-9ad1-4093-a706-228c90029b6d.png)
